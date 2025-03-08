@@ -1,4 +1,4 @@
-CREATE TABLE IF NOT EXISTS full_database_try (
+CREATE TABLE IF NOT EXISTS full_database_normalised (
     doi TEXT PRIMARY KEY,
     subtypeDescription TEXT,
     subjareas TEXT,
